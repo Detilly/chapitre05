@@ -1,0 +1,19 @@
+{
+  "name": "chapitre05",
+  "version": "1.0.0",
+  "description": "Demonstration pour les cours du chapitre 05",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Detilly/chapitre05.git"
+  },
+  "author": "JBV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Detilly/chapitre05/issues"
+  },
+  "homepage": "https://github.com/Detilly/chapitre05#readme"
+}
