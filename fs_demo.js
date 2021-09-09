@@ -63,3 +63,14 @@ function lectureFichier(nomFichier) {
                 }
             );    
 }
+
+
+fs.stat(
+    nomFichier,
+        (err, stats) => {
+            if (err) throw err;
+            console.log('Est-ce un dossier?', stats.isDirectory());
+            console.log('Un fichier?', stats.isFile());
+            console.log('stats', stats);
+        }
+)

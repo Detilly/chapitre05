@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Detilly/chapitre05/issues"
   },
-  "homepage": "https://github.com/Detilly/chapitre05#readme"
+  "homepage": "https://github.com/Detilly/chapitre05#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
 }
